@@ -1,4 +1,4 @@
-# How to get it working?:
+# How to get it working?
 There are two ways to run this app. The first option is to use docker. The second option requires manually downloading the dependencies. Please contact me at james.gomatos@sas.com if you have any trouble getting this application to run
 
 
